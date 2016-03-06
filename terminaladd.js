@@ -1,1 +1,1 @@
-/* This file will be added using the terminal */
+/* This file will be added using git in the terminal */
