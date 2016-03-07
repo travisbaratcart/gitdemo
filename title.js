@@ -1,4 +1,4 @@
-/* Improved Git Workflow Using Sublime Text and Git */
+/* Improved Git Workflow Using Sublime Text */
 
 /* SublimeGit */
 
